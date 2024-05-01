@@ -45,4 +45,7 @@ const addTower = (name, difficulty, badgeId) => {
 }
 
 addTower("Not Even a Literal Easiness", "Easy", "2140999596")
+addTower("Not Even a Literal Difficulty", "Difficult", "2148403914")
+addTower("Not Even a Simplistic, Rushed Gameplay", "Challenging", "0")
+addTower("Not Even a Trash System", "Challenging", "0")
 addTower("Not Even a Backhanded Violence", "Intense", "2140920666")
